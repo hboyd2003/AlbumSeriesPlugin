@@ -18,7 +18,7 @@
 
 PLUGIN_NAME = 'Album Series'
 PLUGIN_AUTHOR = 'Harrison Boyd'
-PLUGIN_LICENSE = 'GPL-2.0-or-later'
+PLUGIN_LICENSE = 'GPL-3.0-or-later'
 PLUGIN_LICENSE_URL = 'https://www.gnu.org/licenses/gpl-3.0.html'
 PLUGIN_DESCRIPTION = '''Adds the tag series_name which contains the name of the series relation of a release'''
 PLUGIN_VERSION = "0.5"
